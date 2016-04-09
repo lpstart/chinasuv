@@ -1,0 +1,2 @@
+<%@ page language='java' contentType='text/html; charset=utf-8' pageEncoding='utf-8'%>
+<p>输入文章</p><p><img src="http://localhost:8080/article/image/201604/04/1459776374199047950.jpg" title="1459776374199047950.jpg" alt="1-1.jpg"/></p><p>去西藏</p><p>看看</p><p>漂亮</p><p>美丽</p>

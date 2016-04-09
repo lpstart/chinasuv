@@ -1,0 +1,35 @@
+@import url(reset.css);
+@import url(icon.css);
+/*subscribe and renew*/
+body{font-family:"lucida Grande",Verdana; line-height:18px; }
+#containers{width:800px; margin:0 auto;}
+	.top-title h1{font-size:30px; line-height:140px;}
+	.size-ga{padding:10px 0px;}
+	.title-line{padding-bottom:5px; margin:10px 0px; border-bottom:1px solid #ccc; text-align:center;}
+	.title-left{padding-left:2.1em;}
+	.botton-left{margin-left:2.1em;}
+	
+	
+/*subscriptions*/
+.bodybg{background:#ecf4f6;}
+#containers-sub{background:#fff; width:980px; margin:0 auto;}
+    .top-banner{height:90px; margin-top:1px; margin-bottom:1px; background:url(../img/subscriptions-topbg.jpg) repeat-x;}
+	    .top-banner-l1{height:90px; width:396px; background:url(../img/index.gif) no-repeat left -208px;}
+		.top-banner-l2{width:740px;}
+		.top-banner-l5{padding-top:10px; width:280px;}
+		.top-banner-l3{width:220px;padding-top:10px;}
+		.top-banner-l4{width:140px; padding-right:10px; line-height:26px;}
+		.top-banner-l4 input{background:url(../img/index.gif) no-repeat left -303px; width:60px; height:19px; border:0;padding:0px; margin:0px; color:#fff; font-size:12px;}
+	.top-nav{background:url(../img/subscriptions-navbg.jpg) repeat-x; height:37px; line-height:34px; padding:0px 50px;}
+		.top-nav ul, .top-banners{width:100%; overflow:hidden;}
+		.top-nav ul li{float:left; padding:0px 20px; }
+	.texts{width:800px; margin:0 auto; margin-top:70px;}
+	.texts-top{border-bottom:1px dashed #ccc; padding-left:10px; padding-bottom:8px; line-height:25px;}
+	.explain{padding:10px 0px; line-height:25px;}
+	
+	
+/*foot*/
+.foot{padding:10px 0px;}
+    .foot-about{background:url(../img/subscriptions-footbg.jpg) repeat-x; height:32px; line-height:32px; text-align:center;}
+	.foots{margin:0px 5px;}
+	.foot-copyright{ margin-top:8px; text-align:center; line-height:20px;}

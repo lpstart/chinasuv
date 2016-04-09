@@ -1,0 +1,55 @@
+@import url(reset.css);
+@import url(icon.css);
+.search-submit {
+	cursor:pointer;
+	width:68px;
+	height:22px;
+	font-size:0px;
+	color:#fafafa;
+	border:0px;
+	background:url(img/search-bt.gif) no-repeat;
+	 font: 12px Verdana,Arial,Tahoma;
+    vertical-align: middle;
+	    margin: 0;
+    padding: 0;
+}
+
+/* size */
+.bold{font-weight:bold;}
+.f12{font-size:12px;}
+.f14{font-size:14px;}
+.f16{font-size:16px;}
+.black, .black a, .black a:link, .black a:visited{color:#4e5052; text-decoration:none;}
+.white, .white a, .white a:link, .white a:visited,
+.nav dl dd a, .nav dl dd a:link, .nav dl dd a:visited{color:#fff; text-decoration:none;}
+.search1, .search1 a, .search1 a:link, .search1 a:visited{color:#3f5575; text-decoration:none;}
+.gray, .gray a, .gray a:link, .gray a:visited{color:#999; text-decoration:none;}
+.foot-gray, .foot-gray a, .foot-gray a:link, .foot-gray a:visited{color:#c3c3c3; text-decoration:none;}
+.blue, .blue a, .blue a:link, .blue a:visited,
+.bbswj dl dd a, .bbswj dl dd a:link, .bbswj dl dd a:visited,
+.bbsnew-photo dl dd a, .bbsnew-photo dl dd a:link, .bbsnew-photo dl dd a:visited{color:#014fad; text-decoration:none;}
+.black a:hover, .white a:hover, .gray a:hover, .foot-gray a:hover, .blue a:hover, .bbswj dl dd a:hover,
+.bbsnew-photo dl dd a:hover, .search1 a:hover, .newssize a:hover{color:#ee6d02;text-decoration:underline;}
+
+.sj-tab a, .sj-tab a:link, .sj-tab a:visited{color:#765520; text-decoration:none;}
+.sj-tab a:hover, .top-nav ol li a:hover{color:#fff;}
+
+.red, .red a, .red a:link, .red a:visited{color:#b11221; text-decoration:none;}
+.orange, .orange a, .orange a:link, .orange a:visited{color:#ff7800; text-decoration:none;}
+.scroll, .scroll a, .scroll a:link, .scroll a:visited{color:#b11221; text-decoration:none;}
+.orange a:hover, .red a:hover, .scroll a:hover{text-decoration:underline;}
+
+
+/* CSS??? */
+.blank5{margin:0 auto;height:5px;font-size:1px;clear:both;}
+.blank8{margin:0 auto;height:8px;font-size:1px;clear:both;}
+.blank10{margin:0 auto;height:10px;font-size:1px;clear:both;}
+.blank15{margin:0 auto;height:15px;font-size:1px;clear:both;}
+.blank22{margin:0 auto;height:22px;font-size:1px;clear:both;}
+/* ?? */
+.left, .news-key{float:left;}
+/*.center{position:absolute;margin-right:auto;margin-left:auto; padding:0px;}*/
+.center{text-align:center;}
+.right{float:right;}
+.clear{clear:both;}
+.hide{display:none;}

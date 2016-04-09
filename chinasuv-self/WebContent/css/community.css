@@ -1,0 +1,84 @@
+@import url(reset.css);
+@import url(icon.css);
+@import url(index.css);
+	/* community*/
+	.community-topbgs{background:#fff; padding-top:3px; padding-left:3px; padding-right:3px;}
+	    .community-bg{background:#5d8203 url(img/issue.gif) no-repeat left -265px; height:39px;}
+		    .community-top-hot{padding-left:350px; line-height:39px;}
+	.community-centents{background:#f1f9ed; border:1px solid #b4cb9f;}
+	    .community-lines{background:#fff; border:1px solid #b4cb9f;}
+	.community-size, .community-size a, .community-size a:link, .community-size a:visited{color:#537502;  text-decoration:none;}
+	.name, .name a{font-size:12px; color:#5998c8;text-decoration:none;}
+	.community-size a:hover, .news-textl dl dd a:hover, .name a:hover{color:#ee6d02;text-decoration:none;}
+		/* new-flash */
+		.news-newsphoto{padding:1px; border-right:1px solid #b4cb9f; border-bottom:1px solid #b4cb9f;}
+		    #foc{display:none;}
+			.avs1{width:320px; height:326px; display:block; overflow:hidden; position:relative;}
+			.avs1 img{width:319px!important;width:320px; height:326px;}
+			.avs1 dt{position:absolute;}
+			.avs1 dt a{display:block;z-index:5px;width:320px;line-height:326px;position:absolute;top:-411px;height:326px;left: -316px;}
+			.avs1 dt a img{width:315px; height:326px;}
+			.avs1 dd{width:280px; bottom:-1px; line-height:14px; position:absolute; height:30px;}
+			.avs1 dd div{border:1px solid #cccccc; margin-left:5px; width:35px; height:14px; padding-top:2px; }
+			.avs1 dd div, .avs1 dd ul li{float:left; font:10px arial; background:#324c6d; color:#fff; text-align:center; cursor:pointer;}
+			.avs1 dd ul{float:left; width:200px;}
+			.avs1 dd ul li{margin:3px 0px 0px 4px; width:16px; height:13px; padding-top:1px;}
+			.avs1 dd ul li.show{border:1px solid #cccccc; margin-top:0px; font-weight:bold; font-size:12px; background:#324c6d; widht:19px; height:15px; padding=top:2px;}
+		.news-centerbg{background:#fff url(../img/communitybg.jpg) no-repeat top; padding-top:15px; width:344px; padding-left:10px;}
+		.news-centerb{background:url(img/issue.gif) no-repeat left -306px; height:25px; margin-top:25px;}
+		.news-textl dl, .news-right-tabcontent dl, .right-tops dl{width:100%; overflow:hidden; padding:5px 0px;}
+		.news-textl dl dt{width:240px; display:inline;}
+		.news-textl dl dd{width:80px; padding-left:10px;}
+		.top-moderator{width:312px; height:163px; background:url(img/issue.gif) no-repeat left -764px;}
+		    .top-moderatorp{padding-top:29px; padding-left:8px;}
+			.top-moderators{padding-top:49px; padding-right:10px; width:165px;}
+		
+		/*right-tab*/
+		.newstab{margin:5px auto 0px auto; width:273px; background:#dddddd; padding:0px 7px 7px 7px;}
+		.none{display:none;}
+		.news-right-tabtitle{height:35px;}
+		.news-right-tabtitle ul{list-style:none;padding:0;position:absolute;margin:0px 13px;}
+		.news-right-tabtitle ul li{float:left; margin:10px 5px 0px 5px; line-height:35px;display:block;cursor:pointer;text-align:center;font-weight:bold;}
+		.news-right-tabtitle .active{background:url(img/issue.gif) left -375px; width:110px; height:35px; color:#000;}
+		.news-right-tabtitle .normal{background:url(img/issue.gif) -117px -375px; width:110px; height:35px; color:#fff;}
+		.news-right-tabcontent{clear:both; margin-top:10px; padding:10px;height:100%; background:#fff;}
+		.news-right-tabcontent dl dt, .right-tops dl dt{width:170px;}
+		.news-right-tabcontent dl dd, .right-tops dl dd{width:70px;}
+		
+		.tab-icon1{background:url(img/issue.gif) -226px top;}
+		.tab-icon1, .tab-icon2{float:left;margin-right:5px;margin-top:3px!important;margin-top:0px;font-family:Arial;font-size:11px;text-align:center; color:#fff; width:16px;height:15px; line-height:15px; font-weight:bold;overflow:hidden;}
+		.tab-icon2{background:url(img/issue.gif) -226px -21px;}
+		.right-tops{width:256px; height:285px;background:url(img/issue.gif) left -412px;padding:54px 10px 10px 20px;}
+	
+	.topbg{background:#fff url(../img/community-topbg.jpg) repeat-x; margin:1px 1px 0px 1px; height:42px;}
+	    .topbg h5{margin-left:20px; padding-top:8px; color:#0f3c00; line-height:25px; font-size:20px;}
+		.topbg .more{padding-top:5px;padding-right:8px;}
+	.texts{padding:10px;}
+	    .texts-lefts{width:690px;}
+		    .texts-left{width:286px;}
+			.texts-center{width:380px;}
+			    .texts-center-r{width:250px;}
+				.texts-center-b, .used-car, .players, .product{width:100%; overflow:hidden;}
+				.texts-center-b{background:#fff url(img/issue.gif) left -1170px no-repeat; padding-top:30px; margin-top:30px;}
+				    .texts-center-b dl{float:left; padding:0px 2px; background:#fff;}
+				.used-car-text{padding:0px 15px;}
+				    .used-car-text ul li{line-height:24px; padding:2px 0px;}
+					.used-car dl{float:left; padding:0px 5px;}
+					.players dl{float:left; width:48%; padding:16px 1%;}
+					    .players-dt{width:150px;}
+		.texts-right{width:233px;}
+		    .texts-right-top{background:url(img/issue.gif) left -929px; padding-left:8px; padding-top:5px; height:28px;}
+			.texts-right ul{padding:8px 5px 0px 5px;}
+			.texts-right ul li, .texts-center-r ul li, .texts-center-b dl dd, .used-car dl dd{line-height:24px;}
+			.product{background:#fff url(img/issue.gif) repeat-x left -988px; margin-top:15px; height:180px;}
+			
+		.rollBox{width:900px;overflow:hidden;padding-top:8px;margin:0 auto;}
+		.rollBox .LeftBotton{height:28px;width:25px;background:url(img/issue.gif) -385px -953px;overflow:hidden;float:left;margin-top:60px; margin-right:10px;}
+		.rollBox .RightBotton{height:28px;width:25px;background:url(img/issue.gif) -426px -953px;overflow:hidden;float:left;margin-top:60px; margin-left:10px;}
+		.rollBox .Cont{width:860px;overflow:hidden;float:left;}
+		.rollBox .ScrCont{width:10000000px; padding-top:15px;}
+		.rollBox .Cont .pic{width:128px; height:130px;float:left;text-align:center;margin:0px 7px;}
+		.rollBox .Cont .pic img{padding:1px;background:#fff;border:1px solid #cecece;display:block;}
+		.rollBox .Cont .pic p{line-height:28px;color:#fff; font-size:12px;text-align:center;}
+		.rollBox .Cont a:link,.rollBox .Cont a:visited{color:#fff;text-decoration:none;}
+		.rollBox .Cont a:hover{color:#f00;text-decoration:underline;}

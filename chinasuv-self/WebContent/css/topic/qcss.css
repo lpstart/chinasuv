@@ -1,0 +1,129 @@
+*{padding:0px; margin:0px;}
+img{ border:1px solid #b3b3b3; padding:1px; }
+img, div, input { behavior: url("iepngfix.htc") };
+ul,li{list-style-type:none; list-style-image:none;}
+a{ color:#252525;}					  
+A:link {text-decoration: none}
+A:visited {text-decoration: none}
+A:hover {text-decoration: underline; color:#ff4400;}
+A:active {text-decoration: underline}
+p{text-indent: 2em;}
+.black, .black a{color:#4e4e4e;}
+
+
+/*青客css*/
+#box{ width:980px; margin:0px auto;}
+
+
+/*头部*/
+#head{ height:400px; text-align:center}
+#head img{ border:0px}
+
+
+
+/*中间*/
+h2{ margin-left:9px; margin-top:10px;}
+h2 img{ border:0px}
+h3{ font-size:15px; color:#ffffff; padding-top:14px; font-weight:bold}
+  .bt1{padding-left:45px; }
+  .bt2{padding-left:55px; }
+  .bt3{padding-left:35px; }    
+  
+
+  /*幻灯*/
+#huandeng{ background:url(../img/bj01.png) no-repeat; width:370px; height:375px; float:left; margin-top:-10px; }
+#hd{ margin-left:14px; margin-top:14px;}
+
+  /*新闻*/
+#xinwen{ background:url(../img/bj02.png) no-repeat; width:620px; height:375px; float:left;margin-top:-10px; margin-left:-10px;display:inline;}
+#xinwen h1{ text-align:center; font-size:16px; font-weight:bold; margin-top:30px;}
+#xinwen h1 a{ color:#ff4800}
+#xinwen p{color:#858585; margin:5px 15px 5px 20px; height:105px; border-bottom:1px dashed #858585}
+
+#xinwen ul{ margin-left:20px; margin-top:15px;}
+#xinwen li{ width:280px; margin-left:10px; float:left; height:24px;display:inline; line-height:28px;}
+#xinwen li img{ border:0px;}
+
+
+  /*视频*/
+  #shipin{ float:left; margin-left:7px; margin-top:5px;}
+  #shipin ul li{ text-align:center; float:left; margin-left:9px; margin-top:10px;display:inline;} 
+    .shipintu{ width:160px; height:110px;}
+
+  /*微博*/
+  #weibo1{ width:580px; height:75px;  border-bottom:1px dashed #a4a4a4; background-color:#f2f2f2; margin-left:20px;}
+  #weibo2{ width:580px; height:75px;  border-bottom:1px dashed #a4a4a4; margin-left:20px;}
+    .wbtp{ float:left; margin-top:10px; margin-left:10px;}
+    .wbbt{ float:left; width:330px; margin-top:10px; margin-left:20px}
+	.wbbt a{ color:#0088ff;}
+	.wbrq{ float:left; width:150px;margin-top:10px;}
+	.wbnr{ font-size:14px; float:left; width:480px; margin-top:5px; margin-left:20px}
+  
+  
+  
+  
+  
+
+  /*活动纪实*/
+#dyt{ background:url(../img/bj03.png) no-repeat; width:980px; height:390px; float:left;}
+    
+  #dtuwen{ float:left; margin-top:28px; margin-left:25px; text-align:center;display:inline;}
+  #dtuwen img{width:315px; height:290px;}
+	
+  #xtuwen{ float:left; width:610px; margin-top:23px; margin-left:5px;display:inline;}
+  #xtuwen ul{ width:610px;}
+  #xtuwen ul li{ text-align:center; float:left; margin-left:20px; margin-top:18px;display:inline;}	
+    .huodongtu{width:175px; height:120px;}
+	
+	
+
+  /*关于广汽*/
+  #guanggao{ width:960px; margin:0px auto; float:left;}
+  #guanggao img{ border:0px;}
+  
+  
+    /*简介*/
+  #jianjie{ float:left; background:url(../img/bj04.png) no-repeat; width:285px; height:391px;}
+  #jianjie img{ margin-top:20px; margin-left:20px; border:0px}
+  #jianjie p{ width:260px; margin-left:20px; margin-top:5px;}
+  #jianjie p a{ color:#ff4400}
+    /*展示*/
+  #zhanshi{ float:left; background:url(../img/bj05.png) no-repeat; width:426px; height:391px;}
+  #zhanshi img{ margin-left:20px; margin-top:18px; border:0px; width:385px; height:315px;}
+    /*动态*/
+  #dongtai{ background:url(../img/bj06.png) no-repeat; width:269px; height:391px; float:left;}
+  #dongtai ul{ margin-top:20px; width:240px;}
+  #dongtai li{ width:240px; margin-left:10px; height:24px; line-height:24px;overflow:hidden; float:left}
+  #dongtai li img{ border:0px;}
+  
+  
+  #weishenmo{width:1px; float:left; height:0px; line-height:0px;}
+
+
+/*底部*/
+#foot{ height:160px; width:100%; background:url(../img/dbbj.jpg) repeat-x;}
+  #dibu{ width:980px; height:75px; margin:0px auto; background:url(../img/bj07.png) no-repeat; text-align:center; padding-top:29px; font-size:13px;}
+  .banquan {font-family: Geneva, Arial, Helvetica, sans-serif;font-size: 12px;}  
+  
+  
+
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+
+
+
